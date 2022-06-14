@@ -8,10 +8,10 @@ Cryptografie: maken en breken van codes.
 
 Doelen:
 
-- vertrouwelijkheid
-- integriteit
-- authenticatie
-- onweerlegbaarheid
+- Vertrouwelijkheid De data kan alleen door de juiste personen gelezen worden.
+- Integriteit De ontvanger weet dat de data onderweg niet gewijzigd is.
+- Authenticatie De ontvanger weet dat de data daadwerkelijk van de zender is.
+- Onweerlegbaarheid De zender kan niet ontkennen dat de data van hem is.
 
 **Plain text**: leesbare tekst  
 **Encrypten**: genereren van geheime tekst (cryptotekst / geheimtekst)  
